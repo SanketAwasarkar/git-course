@@ -1,1 +1,1 @@
-admin has all priviledeges
+admin has all priviledeges but they are revoked now
